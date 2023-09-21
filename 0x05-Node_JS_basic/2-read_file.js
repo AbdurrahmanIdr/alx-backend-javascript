@@ -3,7 +3,6 @@ const fs = require('fs');
 /**
  * Displays a message on the STDOUT.
  * @param {String} msg The message to display.
- * @author Malik Lanlokun <https://github.com/lanlokun>
  */
 const countStudents = (dataPath) => {
   if (!fs.existsSync(dataPath)) {
