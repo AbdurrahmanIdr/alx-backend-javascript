@@ -40,7 +40,11 @@ To complete the projects, you will need to read or watch the following resources
 
 ## **Projects**
 
-1. [ES6 Basics](0x00-ES6_basic/README.md)
+1. [ES6 Basics](./0x00-ES6_basic/README.md)
+2. [ES6 Promise](./0x01-ES6_promise/README.md)
+3. [ES6 Classes](./0x02-ES6_classes/README.md)
+4. [ES6 Data Manipulation](./0x03-ES6_data_manipulation/README.md)
+5. [Typescript](./0x04-TypeScript/README.md)
 
 ## **Setup**
 
