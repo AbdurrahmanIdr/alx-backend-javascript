@@ -1,1 +1,5 @@
-node_modules
+*commits
+*commiter.py
+main_copy/
+.gitignore
+node*/

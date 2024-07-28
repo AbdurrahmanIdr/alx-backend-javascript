@@ -49,7 +49,7 @@ The project is organized into the following directories and files:
 
 1. Clone the repository:
    ```bash
-   git clone [link to your GitHub repository](link here)
+   git clone [project](https://github.com/AbdurrahmanIdr/alx-backend-javascript)
    ```
 2. Navigate to the project directory:
    ```bash
